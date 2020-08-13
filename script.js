@@ -44,4 +44,17 @@ $("#comnav").click(function() {
     $("#home").css("display", "none");
 
 });
+
+$(".animate").click(function(){
+    anime({
+        targets: '.man',
+        keyframes: [
+          {translateY:-10 },
+          {translateY:0 },
+        ],
+        duration: 200,
+        easing: 'easeOutElastic(1, .8)',
+        loop:false
+      });
+})
 });
