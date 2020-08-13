@@ -1,0 +1,80 @@
+#navbar{
+    background-color: black;
+    color: whitesmoke;
+}
+#logo{
+    color: whitesmoke;
+}
+#burger{
+    color: whitesmoke;
+}
+#portnav{
+    color:green;
+}
+#comnav{
+    color:green
+}
+body{
+    background-color: grey;
+}
+#portfolio{
+    display:none ;
+}
+#contact{
+    display: none;
+}
+#cone{
+background-color: lightgrey;
+margin:2%;
+text-align: center;
+}
+#ctwo{
+background-color: lightgrey;
+margin: 2%;
+text-align: center;
+}
+#cthree{
+background-color: lightgrey;
+margin: 2%;
+text-align: center;
+}
+#cfour{
+background-color: lightgrey;
+margin: 2%;
+text-align: center;
+}
+#cfive{
+background-color: lightgrey;
+margin: 2%;
+text-align: center;
+}
+#csix{
+background-color: lightgrey;
+margin: 2%;
+text-align: center;
+}
+#contactf{
+    background-color: lightgrey;
+    margin: 2%;
+    width:100%;
+    text-align: center;
+}
+#home{
+    margin: 3%;
+    background-color: lightgrey;
+}
+.footer{
+    text-align: center;
+    background-color: grey;
+}
+#pic{
+    padding: 8%;
+}
+#stuff{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#info{
+    text-align: center;
+}
