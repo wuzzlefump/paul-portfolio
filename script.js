@@ -57,4 +57,15 @@ $(".animate").click(function(){
         loop:false
       });
 })
+$("#sendEmail").click(function(){
+    $(".alert").empty()
+    $(".alert").append(`<div class="notification is-danger">
+    <button class="delete"></button>
+Feature is still in the works
+  </div>`)
+})
+
+$(document).on('click','.delete', function(){
+    $('.alert').empty()
+})
 });
