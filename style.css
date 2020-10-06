@@ -29,6 +29,7 @@ body{
     margin: 2%;
     width:100%;
     text-align: center;
+    border-radius: 10px;
 }
 #home{
     margin-top: 5%;
@@ -59,10 +60,16 @@ body{
     margin: 2%;
     text-align: center;
     border-radius: 10px;
+
 }
 .cright{
     background-color: lightgrey;
     margin: 2%;
     text-align: center;
     border-radius: 10px;
+
+}
+
+a{
+    color: green;
 }
