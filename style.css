@@ -57,10 +57,12 @@ body{
 .cleft{
     background-color: lightgrey;
     margin: 2%;
-    text-align: center
+    text-align: center;
+    border-radius: 10px;
 }
 .cright{
     background-color: lightgrey;
     margin: 2%;
-    text-align: center
+    text-align: center;
+    border-radius: 10px;
 }
